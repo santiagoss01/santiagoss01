@@ -13,7 +13,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=The+revolution+will+be+codified.">
       <br>
       <br>
-        I'm currently learning:
+        Expanding my knowledge of:
       </b>
       
   
@@ -31,6 +31,9 @@
   </a>  
   <a href="#">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a> 
+    <a href="#">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="blogger" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p> 
 <br>
