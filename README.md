@@ -35,7 +35,18 @@
     <a href="#">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="blogger" style="vertical-align:top; margin:6px 4px">
   </a> 
+   <a href="#">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a> 
+     <a href="#">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a> 
+   <a href="#">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="blogger" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
 </p> 
+      
 <br>
   
 
